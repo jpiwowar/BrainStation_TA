@@ -1,0 +1,2 @@
+use sakila;
+describe customer;
